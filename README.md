@@ -34,6 +34,7 @@ Com a configuração de seu repositório remoto preferido(github, amazon, bitbuc
 Pule para dentro do seu diretório que vai ser sincronizado e copie a máscara do arquivo para o bin/.
 
     cd <SEU DIRETÓRIO>
+    mkdir bin
     cp bin-mask/set_gitwatch.sh.mask bin/set_gitwatch.sh
     
 Edite o arquivo subtituindo o conteúdo da variável PROJECT_HOME para o caminho do sua pasta sincronizada.
