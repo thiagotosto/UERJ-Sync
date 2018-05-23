@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PATH=<PATH OF REPOSITORY>
+
+cd $PATH
+git pull origin master & 
+gitwatch -p origin -b master $PATH & 
