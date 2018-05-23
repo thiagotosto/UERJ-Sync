@@ -1,5 +1,5 @@
 # UERJ-Sync
-Esse é um projeto pessoal simples, que faz o a sincronização de arquivos em máquinas distinas através de um repositório remoto. O mesmo nasceu de uma pequena necessidade pessoal na faculdade. Diz respeito mais sobre a configuração do ambiente no Linux do que do código em si que está nesse github.
+Esse é um projeto pessoal simples que faz o a sincronização de arquivos em máquinas distinas através de um repositório remoto. O mesmo nasceu de uma pequena necessidade pessoal na faculdade. Diz respeito mais sobre a configuração do ambiente no Linux do que do código em si que está nesse github.
 
 A sincronização do repositório para máquina é feita ao se logar,  e a sincronização no caminho inverso é feita em tempo real através da monitorção do gitwatch.
 
